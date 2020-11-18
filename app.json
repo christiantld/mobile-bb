@@ -1,0 +1,12 @@
+{
+  "name": "projetopi2",
+  "displayName": "projetopi2",
+  "expo": {
+    "name": "projetopi2",
+    "slug": "projetopi2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

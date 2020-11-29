@@ -47,7 +47,7 @@ export const ProductImg = styled.Image`
 `;
 export const ProductInfo = styled.View`
   flex: 1;
-  margin-left: 20;
+  margin-left: 20px;
 `;
 export const ProductName = styled.Text`
   font-weight: bold;
